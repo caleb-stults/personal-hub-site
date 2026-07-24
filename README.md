@@ -2,9 +2,9 @@
 ## Preview
 ![Dashboard Screenshot](assets/screenshot.png)
 ## Description
-A lightweight, terminal-inspired personal dashboard and Kanban task manager built with Node.js, Express, SQLite, Alpine.js, and a custom retro dark theme. Designed to run locally via Docker for fast task tracking and quick access to favorite links. I built this mainly as a way for me to practice making a simple API and to play around with more containerization.
+A lightweight, terminal-inspired personal dashboard and Kanban task manager built with Node.js, Express, SQLite, Alpine.js, and a custom retro dark theme. Designed to run locally via Docker for fast task tracking and quick access to favorite links. I built this mainly as a way for me to practice making a simple API and to play around with more containerization. Useful for a default landing page for your browser.
 ## Features
-* **Kanban Task Board:** Manage tasks across **To Do**, **In Progress**, and **Completed** columns with bidirectional movement (`move`, `edit`, and `delete`).
+* **Kanban Task Board:** Manage tasks across **To Do**, **In Progress**, and **Completed** columns with bidirectional movement (`move`, `edit`, and `kill`).
 * **REST API:** Lightweight API endpoints to programmatically manage tasks via external scripts or mobile shortcuts.
 * **Persistent Storage:** Safely tracks data using SQLite mapped to a local host directory via Docker volumes.
 * **Retro Terminal Aesthetic:** Clean, distraction-free monospace styling optimized for a custom browser landing page.
