@@ -67,11 +67,12 @@ function renderDashboard(rows) {
           background-color: var(--bg-base);
           color: var(--text-main);
           margin: 0;
-          padding: 30px;
+          padding: 20px;
         }
 
         .container {
-          max-width: 1100px;
+          width: 95%;
+          max-width: 1650px;
           margin: 0 auto;
           background: var(--bg-panel);
           border: 1px solid var(--border-color);
