@@ -1,4 +1,7 @@
 # Personal Hub & Dashboard
+## Preview
+![Dashboard Screenshot](assets/screenshot.png)
+## Description
 A lightweight, terminal-inspired personal dashboard and Kanban task manager built with Node.js, Express, SQLite, Alpine.js, and a custom retro dark theme. Designed to run locally via Docker for fast task tracking and quick access to favorite links. I built this mainly as a way for me to practice making a simple API and to play around with more containerization.
 ## Features
 * **Kanban Task Board:** Manage tasks across **To Do**, **In Progress**, and **Completed** columns with bidirectional movement (`move`, `edit`, and `delete`).
